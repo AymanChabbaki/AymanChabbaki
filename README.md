@@ -1,13 +1,13 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Aymen;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;width=435&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Aymen;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Aymen%20Chabbaki&fontSize=60&fontAlignY=35&desc=Building%20the%20Future%20with%20Code%20%26%20AI&descAlignY=55&descAlign=center&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=200&amp;section=header&amp;text=Aymen%20Chabbaki&amp;fontSize=60&amp;fontAlignY=35&amp;desc=Building%20the%20Future%20with%20Code%20%26%20AI&amp;descAlignY=55&amp;descAlign=center&amp;animation=twinkling" />
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AymanChabbaki&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/AymanChabbaki?color=00D4FF&style=for-the-badge&logo=github&label=FOLLOWERS" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/AymanChabbaki?color=00D4FF&style=for-the-badge&logo=github&label=STARS" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=AymanChabbaki&amp;color=00D4FF&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/AymanChabbaki?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=FOLLOWERS" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/AymanChabbaki?color=00D4FF&amp;style=for-the-badge&amp;logo=github&amp;label=STARS" alt="GitHub Stars" />
 </p>
 
 ## 🚀 About Me
@@ -41,19 +41,19 @@ const aymen = {
 <div align="center">
 
 ### 💻 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,php,c&amp;theme=dark" />
 
 ### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,flutter&amp;theme=dark" />
 
 ### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,laravel&amp;theme=dark" />
 
 ### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&amp;theme=dark" />
 
 ### 🤖 AI/ML & Tools
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,docker,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,git,docker,vscode&amp;theme=dark" />
 
 </div>
 
@@ -62,16 +62,16 @@ const aymen = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AymanChabbaki&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AymanChabbaki&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AymanChabbaki&amp;show_icons=true&amp;theme=radical&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;icon_color=00D4FF&amp;text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AymanChabbaki&amp;layout=compact&amp;langs_count=8&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanChabbaki&theme=radical&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AymanChabbaki&amp;theme=radical&amp;hide_border=true&amp;background=0d1117&amp;stroke=00D4FF&amp;ring=00D4FF&amp;fire=00D4FF&amp;currStreakLabel=00D4FF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AymanChabbaki&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AymanChabbaki&amp;theme=radical&amp;no-frame=true&amp;row=1&amp;column=7&amp;margin-h=15&amp;margin-w=5" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -81,16 +81,16 @@ const aymen = {
 <div align="center">
 
 ### 🏢 Gestion Pilotage - Enterprise Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&repo=gestion_pilotage&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9)](https://github.com/AymanChabbaki/gestion_pilotage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&amp;repo=gestion_pilotage&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/AymanChabbaki/gestion_pilotage)
 
 ### ⚽ Football Prediction - AI Sports Analytics
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&repo=PredictionFootBalll&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9)](https://github.com/AymanChabbaki/PredictionFootBalll)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&amp;repo=PredictionFootBalll&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/AymanChabbaki/PredictionFootBalll)
 
 ### 🚗 Car Price Prediction - ML Price Estimator
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&repo=PFM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9)](https://github.com/AymanChabbaki/PFM)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&amp;repo=PFM&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/AymanChabbaki/PFM)
 
 ### 👥 Recruitment Management - HR Tech Solution
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&repo=Gestion_Recrutement&theme=radical&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9)](https://github.com/AymanChabbaki/Gestion_Recrutement)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AymanChabbaki&amp;repo=Gestion_Recrutement&amp;theme=radical&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D4FF&amp;text_color=c9d1d9)](https://github.com/AymanChabbaki/Gestion_Recrutement)
 
 </div>
 
@@ -98,7 +98,7 @@ const aymen = {
 
 ## 🔥 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanChabbaki&custom_title=Aymen's%20Activity%20Graph&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AymanChabbaki&amp;custom_title=Aymen's%20Activity%20Graph&amp;bg_color=0d1117&amp;color=00D4FF&amp;line=00D4FF&amp;point=ffffff&amp;area=true&amp;hide_border=true" alt="Contribution Graph" />
 
 ---
 
@@ -174,7 +174,7 @@ const aymen = {
   
 ### 💭 Quote of the Day
   
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote" />
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&amp;theme=radical" alt="Quote" />
 
 </div>
 
@@ -183,4 +183,42 @@ const aymen = {
 ## 📈 Coding Time
 
 <div align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime" />
+</div>
+
+---
+
+## 🎵 Now Playing on Spotify
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify Now Playing" />
+</div>
+
+---
+
+<div align="center">
+  
+### 🐍 Watch my contribution graph get eaten by a snake!
+
+<img src="https://raw.githubusercontent.com/AymanChabbaki/AymanChabbaki/output/snake.svg" alt="Snake Animation" />
+
+</div>
+
+---
+
+<div align="center">
+  
+### ✨ Thank you for visiting! ✨
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;center=true&amp;width=800&amp;lines=Thanks+for+checking+out+my+profile!;Let's+build+something+amazing+together!;Feel+free+to+reach+out+for+collaborations!;Happy+Coding!+%F0%9F%9A%80" alt="Closing Message" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=0,2,2,5,30&amp;height=120&amp;section=footer&amp;animation=twinkling" />
+
+---
+
+<div align="center">
+  <sub>⭐ From <a href="https://github.com/AymanChabbaki">AymenChabbaki</a> with ❤️</sub>
+</div>
 
