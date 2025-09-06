@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;width=435&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Aymen;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving;color=gradient;customColorList=0,2,2,5,30;height=200;section=header&text=Aymen%20Chabbaki;fontSize=60;fontAlignY=35;desc=Building%20the%20Future%20with%20Code%20%26%20AI;descAlignY=55;descAlign=center;animation=twinkling" alt="Aymen Chabbaki" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Aymen%20Chabbaki&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Aymen Chabbaki" />
 </div>
 
 <p align="center">
