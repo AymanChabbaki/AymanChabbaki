@@ -183,7 +183,7 @@ const aymen = {
 ## 📈 Coding Time
 
 <div align="center">
-  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime" />
+  <img src="https://wakatime.com/badge/user/ee7c49ba-e9dc-4fd0-8030-9efa7726b75e.svg" alt="WakaTime" />
 </div>
 
 ---
@@ -191,7 +191,7 @@ const aymen = {
 ## 🎵 Now Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&amp;border_color=ffffff" alt="Spotify Now Playing" />
+  <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fcpknh60voxdyum9tknp750j5&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fcpknh60voxdyum9tknp750j5&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&mode=light)" alt="Spotify Now Playing" />
 </div>
 
 ---
