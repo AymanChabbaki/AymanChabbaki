@@ -191,7 +191,7 @@ const aymen = {
 ## 🎵 Now Playing on Spotify
 
 <div align="center">
-  <img src="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fcpknh60voxdyum9tknp750j5&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fcpknh60voxdyum9tknp750j5&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&mode=light)" alt="Spotify Now Playing" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=fcpknh60voxdyum9tknp750j5&cover_image=true&theme=apple&show_offline=true&background_color=121212&interchange=true&mode=light)" alt="Spotify Now Playing" />
 </div>
 
 ---
@@ -200,7 +200,7 @@ const aymen = {
   
 ### 🐍 Watch my contribution graph get eaten by a snake!
 
-<img src="https://raw.githubusercontent.com/AymanChabbaki/AymanChabbaki/output/snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/AymanChabbaki/AymanChabbaki/output/github-snake.svg" alt="Snake Animation" />
 
 </div>
 
