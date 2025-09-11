@@ -35,7 +35,6 @@ const aymen = {
 - ⚡ Fun fact: **I can solve a Rubik's cube while thinking about algorithms!**
 
 ---
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayman-chabbaki/)
               
 ## 🛠️ Tech Arsenal
 
