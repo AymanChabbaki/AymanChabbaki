@@ -1,5 +1,5 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=3000&amp;pause=1000&amp;color=00D4FF&amp;width=435&amp;lines=Hi+%F0%9F%91%8B%2C+I'm+Aymen;Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Aymen%20Chabbaki&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Aymen Chabbaki" />
 </div>
@@ -35,7 +35,8 @@ const aymen = {
 - ⚡ Fun fact: **I can solve a Rubik's cube while thinking about algorithms!**
 
 ---
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="ayman-chabbaki" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ma.linkedin.com/in/ayman-chabbaki?trk=profile-badge">Ayman chabbaki</a></div>
+              
 ## 🛠️ Tech Arsenal
 
 <div align="center">
